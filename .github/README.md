@@ -11,7 +11,7 @@ My name is Lucas and I'm mobile developer.
  💻  Working at [@EL Sistemas🧡](https://www.elsistemas.com.br)<br>
  🇧🇷  Born and living in Brazil <br>
 
-And some metrics 📊:
+<!-- And some metrics 📊: -->
 
 <!-- <p align="start">
  <img src="https://github-profile-trophy.vercel.app/?username=lucas3g&column=7&theme=onedark"/>
