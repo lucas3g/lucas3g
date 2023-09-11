@@ -10,7 +10,7 @@ My name is Lucas and I'm mobile developer.
  💙  In love with Flutter<br>
  💻  Working at [@EL Sistemas🧡](https://www.elsistemas.com.br)<br>
  🇧🇷  Born and living in Brazil <br>
- ..: Currently studying NestJS :..<br>
+ 📜 Currently studying NestJS <br>
 
 <!-- And some metrics 📊: -->
 
