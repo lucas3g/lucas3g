@@ -11,7 +11,7 @@ My name is Lucas and I'm mobile developer.
  💻  Working at [@EL Sistemas🧡](https://www.elsistemas.com.br)<br>
  🇧🇷  Born and living in Brazil <br>
  
- 📜 Currently studying NestJS <br>
+ 📜 Currently studying Native Android and Swift <br>
 
  And some metrics 📊:
 
@@ -24,7 +24,7 @@ My name is Lucas and I'm mobile developer.
 
 ![Snake animation](https://github.com/lucas3g/lucas3g/blob/output/github-contribution-grid-snake.svg)
 
-<h2>Total de Visitas no Perfil 🕵🏾‍♂️</h2>
+<h2>Total Profile Visits 🕵🏾‍♂️</h2>
 <p align="center">
    <img src="https://profile-counter.glitch.me/lucas3g/count.svg" alt="Contador de Views"> 
 </p>
