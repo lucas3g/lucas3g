@@ -13,14 +13,14 @@ My name is Lucas and I'm mobile developer.
  
  📜 Currently studying Native Android and Swift <br>
 
- And some metrics 📊:
+ <!-- And some metrics 📊:
 
 <p align="start">
    <img src="https://github-profile-trophy.vercel.app/?username=lucas3g&column=7&theme=onedark"/>
 </p>
 <p align="start">
  <img src="https://github-readme-stats.vercel.app/api?username=lucas3g&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas3g&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
+</p> -->
 
 ![Snake animation](https://github.com/lucas3g/lucas3g/blob/output/github-contribution-grid-snake.svg)
 
