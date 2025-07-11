@@ -15,7 +15,7 @@ My name is Lucas and I'm mobile developer.
 
 And some metrics 📊:
 
-<p align="start">
+<p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=lucas3g&column=7&theme=onedark"/>
 </p>
 <p align="center">
