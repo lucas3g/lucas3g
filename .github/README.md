@@ -18,7 +18,7 @@ And some metrics 📊:
 <p align="start">
    <img src="https://github-profile-trophy.vercel.app/?username=lucas3g&column=7&theme=onedark"/>
 </p>
-<p align="start">
+<p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=lucas3g&show_icons=true&theme=tokyonight" alt="my github stats" width="420" height="165"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas3g&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
