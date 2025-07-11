@@ -22,10 +22,3 @@ And some metrics 📊:
    <img src="https://github-readme-stats.vercel.app/api?username=lucas3g&show_icons=true&theme=tokyonight" alt="my github stats" width="420" height="165"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas3g&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
-
-<!-- ![Snake animation](https://github.com/lucas3g/lucas3g/blob/output/github-contribution-grid-snake.svg)
-
-<h2>Total Profile Visits 🕵🏾‍♂️</h2>
-<p align="center">
-   <img src="https://profile-counter.glitch.me/lucas3g/count.svg" alt="Contador de Views"> 
-</p> -->
