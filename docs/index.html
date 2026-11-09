@@ -21,7 +21,13 @@
   <div id="doom"></div>
   <p class="help">Setas: mover · Ctrl: atirar · Espaço: abrir portas · Shift: correr · Enter: confirmar nos menus</p>
   <script>
-    Dos(document.getElementById("doom"), { autoStart: false }).run("https://cdn.dos.zone/custom/dos/doom.jsdos");
+    Dos(document.getElementById("doom"), {
+      url: "https://cdn.dos.zone/custom/dos/doom.jsdos",
+      autoStart: true,
+      noSideBar: true,
+      noFullscreen: false,
+      lang: "pt-br"
+    });
   </script>
 </body>
 </html>

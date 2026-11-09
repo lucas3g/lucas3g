@@ -1,27 +1,27 @@
-  
-name: Generate Datas
+name: Atualizar métricas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
-    name: Jobs to update datas
+  metrics:
+    name: Gerar metrics.svg
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: lucas3g
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: actions/checkout@v4
+      - name: Gerar SVG
+        run: python3 .github/scripts/metrics.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          # Opcional: crie o secret METRICS_TOKEN (PAT com read:user e repo) para contar PRs/contribuições privadas
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/metrics.svg
+          git diff --staged --quiet || (git commit -m "chore: atualizar métricas" && git push)

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="330" viewBox="0 0 800 330" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="800" height="330" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="38" fill="#e6edf3" font-size="18" font-weight="600">Métricas de @lucas3g</text>
+<rect x="24.0" y="58" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="24.0" y="58" width="4" height="80" rx="2" fill="#3fb950"/>
+<text x="42.0" y="98" fill="#3fb950" font-size="28" font-weight="700">390</text>
+<text x="42.0" y="120" fill="#8b949e" font-size="12">Pull requests</text>
+<rect x="215.0" y="58" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="215.0" y="58" width="4" height="80" rx="2" fill="#a371f7"/>
+<text x="233.0" y="98" fill="#a371f7" font-size="28" font-weight="700">381</text>
+<text x="233.0" y="120" fill="#8b949e" font-size="12">PRs mergeados</text>
+<rect x="406.0" y="58" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="406.0" y="58" width="4" height="80" rx="2" fill="#58a6ff"/>
+<text x="424.0" y="98" fill="#58a6ff" font-size="28" font-weight="700">4</text>
+<text x="424.0" y="120" fill="#8b949e" font-size="12">PRs abertos</text>
+<rect x="597.0" y="58" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="597.0" y="58" width="4" height="80" rx="2" fill="#d29922"/>
+<text x="615.0" y="98" fill="#d29922" font-size="28" font-weight="700">8</text>
+<text x="615.0" y="120" fill="#8b949e" font-size="12">Issues</text>
+<rect x="24.0" y="150" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="24.0" y="150" width="4" height="80" rx="2" fill="#39c5cf"/>
+<text x="42.0" y="190" fill="#39c5cf" font-size="28" font-weight="700">0</text>
+<text x="42.0" y="212" fill="#8b949e" font-size="12">Reviews (12 meses)</text>
+<rect x="215.0" y="150" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="215.0" y="150" width="4" height="80" rx="2" fill="#f778ba"/>
+<text x="233.0" y="190" fill="#f778ba" font-size="28" font-weight="700">1.587</text>
+<text x="233.0" y="212" fill="#8b949e" font-size="12">Contribuições (12 meses)</text>
+<rect x="406.0" y="150" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="406.0" y="150" width="4" height="80" rx="2" fill="#79c0ff"/>
+<text x="424.0" y="190" fill="#79c0ff" font-size="28" font-weight="700">104</text>
+<text x="424.0" y="212" fill="#8b949e" font-size="12">Repositórios</text>
+<rect x="597.0" y="150" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="597.0" y="150" width="4" height="80" rx="2" fill="#e3b341"/>
+<text x="615.0" y="190" fill="#e3b341" font-size="28" font-weight="700">20</text>
+<text x="615.0" y="212" fill="#8b949e" font-size="12">Stars recebidas</text>
+<text x="24" y="262" fill="#e6edf3" font-size="13" font-weight="600">Linguagens mais usadas</text>
+<clipPath id="c"><rect x="24" y="272" width="752" height="8" rx="4"/></clipPath><g clip-path="url(#c)">
+<rect x="24.0" y="272" width="366.5" height="8" fill="#00B4AB"/>
+<rect x="390.5" y="272" width="143.6" height="8" fill="#7355dd"/>
+<rect x="534.2" y="272" width="128.0" height="8" fill="#dea584"/>
+<rect x="662.1" y="272" width="49.5" height="8" fill="#3178c6"/>
+<rect x="711.6" y="272" width="34.3" height="8" fill="#E3F171"/>
+<rect x="745.9" y="272" width="30.1" height="8" fill="#4F5D95"/>
+</g>
+<circle cx="29" cy="298" r="5" fill="#00B4AB"/><text x="39" y="302" fill="#8b949e" font-size="12">Dart 49%</text>
+<circle cx="115" cy="298" r="5" fill="#7355dd"/><text x="125" y="302" fill="#8b949e" font-size="12">C# 19%</text>
+<circle cx="187" cy="298" r="5" fill="#dea584"/><text x="197" y="302" fill="#8b949e" font-size="12">Rust 17%</text>
+<circle cx="273" cy="298" r="5" fill="#3178c6"/><text x="283" y="302" fill="#8b949e" font-size="12">TypeScript 7%</text>
+<circle cx="401" cy="298" r="5" fill="#E3F171"/><text x="411" y="302" fill="#8b949e" font-size="12">Pascal 5%</text>
+<circle cx="501" cy="298" r="5" fill="#4F5D95"/><text x="511" y="302" fill="#8b949e" font-size="12">PHP 4%</text>
+<text x="776" y="38" text-anchor="end" fill="#6e7681" font-size="11">atualizado em 09/11/2026</text></svg>

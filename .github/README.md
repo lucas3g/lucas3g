@@ -35,27 +35,11 @@ Desenvolvedor mobile com foco em **Flutter**, atuando na [EL Sistemas](https://w
 ## Métricas do GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/search?query=author%3Alucas3g%20type%3Apr&label=Pull%20Requests&style=for-the-badge&color=2ea44f" alt="Pull Requests"/>
-  <img src="https://img.shields.io/github/search?query=author%3Alucas3g%20type%3Apr%20is%3Amerged&label=PRs%20mergeados&style=for-the-badge&color=8957e5" alt="PRs mergeados"/>
-  <img src="https://img.shields.io/github/search?query=reviewed-by%3Alucas3g%20type%3Apr&label=PRs%20revisados&style=for-the-badge&color=0969da" alt="PRs revisados"/>
-  <img src="https://img.shields.io/github/search?query=author%3Alucas3g%20type%3Aissue&label=Issues&style=for-the-badge&color=d29922" alt="Issues"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas3g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Estatísticas" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas3g&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="180"/>
+  <img src="https://raw.githubusercontent.com/lucas3g/lucas3g/main/.github/metrics.svg" alt="Métricas do GitHub" width="800"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lucas3g&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas3g&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucas3g&column=7&theme=onedark&no-bg=true&no-frame=true" alt="Troféus"/>
 </p>
 
 ---
