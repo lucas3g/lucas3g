@@ -23,7 +23,7 @@
 <text x="42.0" y="212" fill="#8b949e" font-size="12">Reviews (12 meses)</text>
 <rect x="215.0" y="150" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
 <rect x="215.0" y="150" width="4" height="80" rx="2" fill="#f778ba"/>
-<text x="233.0" y="190" fill="#f778ba" font-size="28" font-weight="700">1.721</text>
+<text x="233.0" y="190" fill="#f778ba" font-size="28" font-weight="700">1.727</text>
 <text x="233.0" y="212" fill="#8b949e" font-size="12">Contribuições (12 meses)</text>
 <rect x="406.0" y="150" width="179.0" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
 <rect x="406.0" y="150" width="4" height="80" rx="2" fill="#79c0ff"/>
@@ -35,17 +35,17 @@
 <text x="615.0" y="212" fill="#8b949e" font-size="12">Stars recebidas</text>
 <text x="24" y="262" fill="#e6edf3" font-size="13" font-weight="600">Linguagens mais usadas</text>
 <clipPath id="c"><rect x="24" y="272" width="752" height="8" rx="4"/></clipPath><g clip-path="url(#c)">
-<rect x="24.0" y="272" width="317.1" height="8" fill="#00B4AB"/>
-<rect x="341.1" y="272" width="127.2" height="8" fill="#dea584"/>
-<rect x="468.3" y="272" width="100.2" height="8" fill="#e34c26"/>
-<rect x="568.5" y="272" width="85.2" height="8" fill="#f34b7d"/>
-<rect x="653.8" y="272" width="62.3" height="8" fill="#ff3e00"/>
-<rect x="716.0" y="272" width="60.0" height="8" fill="#3178c6"/>
+<rect x="24.0" y="272" width="314.7" height="8" fill="#00B4AB"/>
+<rect x="338.7" y="272" width="127.4" height="8" fill="#dea584"/>
+<rect x="466.1" y="272" width="99.4" height="8" fill="#e34c26"/>
+<rect x="565.6" y="272" width="84.6" height="8" fill="#f34b7d"/>
+<rect x="650.2" y="272" width="63.5" height="8" fill="#3178c6"/>
+<rect x="713.7" y="272" width="62.3" height="8" fill="#ff3e00"/>
 </g>
 <circle cx="29" cy="298" r="5" fill="#00B4AB"/><text x="39" y="302" fill="#8b949e" font-size="12">Dart 42%</text>
 <circle cx="115" cy="298" r="5" fill="#dea584"/><text x="125" y="302" fill="#8b949e" font-size="12">Rust 17%</text>
 <circle cx="201" cy="298" r="5" fill="#e34c26"/><text x="211" y="302" fill="#8b949e" font-size="12">HTML 13%</text>
 <circle cx="287" cy="298" r="5" fill="#f34b7d"/><text x="297" y="302" fill="#8b949e" font-size="12">C++ 11%</text>
-<circle cx="366" cy="298" r="5" fill="#ff3e00"/><text x="376" y="302" fill="#8b949e" font-size="12">Svelte 8%</text>
-<circle cx="466" cy="298" r="5" fill="#3178c6"/><text x="476" y="302" fill="#8b949e" font-size="12">TypeScript 8%</text>
+<circle cx="366" cy="298" r="5" fill="#3178c6"/><text x="376" y="302" fill="#8b949e" font-size="12">TypeScript 8%</text>
+<circle cx="494" cy="298" r="5" fill="#ff3e00"/><text x="504" y="302" fill="#8b949e" font-size="12">Svelte 8%</text>
 <text x="776" y="38" text-anchor="end" fill="#6e7681" font-size="11">atualizado em 19/11/2026</text></svg>
